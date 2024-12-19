@@ -2,7 +2,8 @@
   "name": "openvpn-master",
   "version": "1.0.0",
   "description": "Крутой бот для Open VPN",
-  "main": "main.js",
+  "main": "bot.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/enotstitch/openvpn-master#readme",
   "devDependencies": {
     "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "grammy": "^1.33.0"
   }
 }
