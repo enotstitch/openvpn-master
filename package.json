@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/enotstitch/openvpn-master/issues"
   },
-  "homepage": "https://github.com/enotstitch/openvpn-master#readme"
+  "homepage": "https://github.com/enotstitch/openvpn-master#readme",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
