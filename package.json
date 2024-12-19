@@ -1,0 +1,19 @@
+{
+  "name": "openvpn-master",
+  "version": "1.0.0",
+  "description": "Крутой бот для Open VPN",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enotstitch/openvpn-master.git"
+  },
+  "author": "Anna Kessler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enotstitch/openvpn-master/issues"
+  },
+  "homepage": "https://github.com/enotstitch/openvpn-master#readme"
+}
